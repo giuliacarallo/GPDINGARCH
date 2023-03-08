@@ -16,6 +16,6 @@ lkl.m is the function for evaluating the likelihood of the Generalized Poisson D
 
 mut.m is the garch function 
 
-gibbsadap.m and mut_forec2.m are the function for the forecasting 
+gibbsadap.m and mut_forec2.m are the functions for the forecasting 
 
  
