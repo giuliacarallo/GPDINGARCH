@@ -1,8 +1,9 @@
 # GPDINGARCH
 
-This contains codes for the paper "Generalized Poisson Difference Autoregressive Processes"
+This contains codes for the paper "Generalized Poisson Difference Autoregressive Processes" by Carallo, G., Casarin, R. and Robert, C. P.
+available at: https://arxiv.org/abs/2002.04470
 
-AdaptiveGPDINGARCH.m and CyberEstimation.m are the main code files for the estimation of two applications: Schiphol and Cyber threats datasets
+AdaptiveGPDINGARCH.m and CyberEstimation.m are the main code files for the estimation of two applications: Schiphol and Cyber threats datasets. Datasets are available in the .mat files 
 
 SeqForecastAdap.m is the main code for the forecasting exercise, can be adapted for all models and applications studied in the paper
 
