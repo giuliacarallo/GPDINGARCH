@@ -1,7 +1,6 @@
 # GPDINGARCH
 
-This contains codes for the paper "Generalized Poisson Difference Autoregressive Processes" by Carallo, G., Casarin, R. and Robert, C. P.
-available at: https://arxiv.org/abs/2002.04470
+This contains codes for the paper "Generalized Poisson Difference Autoregressive Processes".
 
 AdaptiveGPDINGARCH.m and CyberEstimation.m are the main code files for the estimation of two applications: Schiphol and Cyber threats datasets. Datasets are available in the .mat files Schiphol. mat and CyberAttacks2017_2018.mat
 
